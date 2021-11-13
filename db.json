@@ -1,0 +1,46 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Meeting at School",
+      "day": "March 3rd at 1:30pm",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Food Shopping",
+      "day": "March 3rd at 11:00am",
+      "reminder": true
+    },
+    {
+      "text": "Hello Günter",
+      "day": "ffffff",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "test task",
+      "day": "ffffff",
+      "reminder": false,
+      "id": 5
+    },
+    {
+      "text": "Hello Günter",
+      "day": "ffffff",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "text": "Hello Günter",
+      "day": "ffffff",
+      "reminder": false,
+      "id": 7
+    },
+    {
+      "text": "Hello Günter",
+      "day": "ffffff",
+      "reminder": true,
+      "id": 8
+    }
+  ]
+}
